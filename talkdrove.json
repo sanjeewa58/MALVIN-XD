@@ -9,20 +9,20 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. It starts with malvin~",
-        "value":"",
+        "description": "malvin~d79XiagA#mDbEvKGrEfcQlkoipoJKeiO_Dg1f1-xaaCkZTVlZM2o",
+        "value":"srilanka",
         "required": true
         
       },
       
     "OWNER_NUMBER": {
-      "description": "Enter owner number",
+      "description": "94726655459",
       "required": true,
-      "value": "263714757857"
+      "value": "94726655459"
       
        },
       "TIMEZONE": {
-      "description": "Enter country timezone",
+      "description": "srilanka",
       "required": true,
       "value": "Africa/Harare"
 
