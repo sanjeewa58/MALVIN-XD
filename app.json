@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
+        "description": "malvin~d79XiagA#mDbEvKGrEfcQlkoipoJKeiO_Dg1f1-xaaCkZTVlZM2o",
         "value":"",
         "required": true
         
@@ -27,7 +27,7 @@
     },
       "MODE": {
         "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
-        "value":"private",
+        "value":"public",
         "required": true  
         
    },
@@ -39,13 +39,13 @@
    }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "94726655459.",
       "value": "263714757857"
       "required": true
       
    },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "Hashan🌹",
       "value": "",
       "required": true
     }
